@@ -22,7 +22,7 @@
             "url": ""
         }
     },
-    "manifestUrl": "http://l-log1.f.dev.cn0.qunar.com:3000/nw/package.json",
+    "manifestUrl": "",
     "node-remote": "*",
     "version": "1.0.4"
 }
